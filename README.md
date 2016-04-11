@@ -1,0 +1,2 @@
+# INPG\
+pierwszy wpis
