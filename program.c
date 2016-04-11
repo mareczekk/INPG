@@ -25,6 +25,7 @@
  to = malloc(sizeof(int**))
  
  t = zombie.find(1)
+  zombie.find_by_name.order(name)
  
  return 0;
  }
